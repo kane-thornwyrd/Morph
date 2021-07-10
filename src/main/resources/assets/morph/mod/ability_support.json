@@ -1693,8 +1693,14 @@
     "fallNegate"
   ],
   "thehippomaster.MutantCreatures.MutantZombie": [
-    "hostile",
-    "fallNegate"
+	  "sunburn",
+	  "hostile",
+	  "fallNegate",
+	  "step|2.0F",
+	  "poisonResistance",
+	  "sink",
+	"fear|6,1.05D,net.minecraft.entity.passive.EntityVillager",
+	  "potionEffect|18,100,3,false"
   ],
   "tragicneko.tragicmc.entity.alpha.EntityOverlordCocoon": [
     "hostile",
